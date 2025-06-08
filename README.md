@@ -32,8 +32,8 @@ This project implements distributed algorithms for graph coloring using PySpark.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/danitdrvc/graph-coloring-pyspark.git
-    cd graph-coloring-pyspark
+    git clone https://github.com/danitdrvc/Distributed-Graph-Coloring-with-PySpark.git
+    cd Distributed-Graph-Coloring-with-PySpark
     ```
 
 2. Install dependencies:
